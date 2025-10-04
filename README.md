@@ -12,7 +12,7 @@ npm install
 
 \`\`\`bash
 npm start
-\`\`\`
+\`\`\` // updated
 
 ## Features
 
